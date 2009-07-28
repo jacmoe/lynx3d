@@ -3,6 +3,6 @@
 = External Libraries =
 
   * enet: http://enet.bespin.org/download/enet-1.2.tar.gz
-  * SDL: http://www.libsdl.org/release/SDL-1.2.13-win32.zip
+  * SDL: http://www.libsdl.org/release/SDL-devel-1.2.13-VC8.zip
 
 Compile and add Header+Libs to your VS path.
